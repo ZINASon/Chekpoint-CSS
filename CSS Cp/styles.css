@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+* {
+    background-color: antiquewhite;
+}
+
+.navbar{
+    background-color: rgb(172, 33, 15);
+    padding: 10px;
+    text-align: center;
+  }
+.navbar li{
+    color: rgb(31, 28, 25);
+    margin: 5px;
+    list-style-type: none;
+    display: inline-block;
+    
+  }
+
+a{
+   color: white;
+   background-color: rgb(172, 33, 15);
+
+}
+p{
+    font-family: 'Architects Daughter', cursive;
+}
+#home{
+    text-align: center;
+}
+#about{
+    text-align: justify;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-weight: bolder;
+}
+h4{
+    color: blue;
+    text-align: justify;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius: 5%;
+}
+#footer{
+    background-color: rgb(172, 33, 15);
+    padding: 10px;
+    text-align: center;
+}
